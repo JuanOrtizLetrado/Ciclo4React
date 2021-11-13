@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.fondo-oscuro{
+  background-color: #282c34;
+}
+
+.fondo-claro{
+  background-color: rgb(248, 248, 248);
+}
+
+.letra-blanca{
+  color: white;
+  
+}
+
+.letra-nigga{
+  color:black;
+}
